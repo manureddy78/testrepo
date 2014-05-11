@@ -9,6 +9,4 @@ private void getCollection(int number){
 public void getResults(){
 
 
-// test method
-
 }
