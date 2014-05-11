@@ -1,0 +1,8 @@
+
+static int number(){
+
+
+return requiredNumber;
+
+
+}

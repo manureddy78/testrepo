@@ -1,0 +1,14 @@
+
+private void getCollection(int number){
+
+
+   mainCollection[number].push("test");
+
+}
+
+public void getResults(){
+
+
+// test method
+
+}
